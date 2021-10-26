@@ -1,6 +1,8 @@
  git rollback after push to github
  1.git revert eebbf5a --no-edit
  2.git push
+ https://www.nobledesktop.com/learn/git/undo-changes
+ 
  
  git commit log
  1.git log --oneline
